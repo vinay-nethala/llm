@@ -1,6 +1,6 @@
 FROM python:3.12-slim
 
-LABEL maintainer="chdsssbaba"
+LABEL maintainer="vinay-nethala"
 LABEL description="AI-powered prompt router for intent classification"
 
 WORKDIR /app
